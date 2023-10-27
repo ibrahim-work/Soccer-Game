@@ -1,5 +1,5 @@
 # Soccer-Game
-Simple Soccer Game made using JavaScript and HTML https://youtu.be/ehk6tcA7X9Y
+Simple Soccer Game made using JavaScript and HTML. Control using arrow keys. https://youtu.be/ehk6tcA7X9Y
 
 
 
